@@ -80,19 +80,19 @@ The core data structure is a `Movie` struct that stores:
 ### Compilation
 
 ```bash
-gcc movie_ticket_system.c -o movie_ticket_system
+gcc movie_ticket_system.c -o file_name
 ```
 
 ### Run the Program
 
 ```bash
-./movie_ticket_system
+./file_name
 ```
 
 ### On Windows
 
 ```bash
-movie_ticket_system.exe
+filename.exe
 ```
 
 The program will create or load the `movies.txt` file to manage movie records.
